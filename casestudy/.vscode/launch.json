@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "CUSTOMER_SERVICE_URL": "http://5d830bcec9e3410014070f9c.mockapi.io/api/v1/customers",
+                "MONGO_SERVER": "localhost",
+                "MONGO_PORT": "27017"
+            }
+        }
+    ]
+}

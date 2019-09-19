@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "CUSTOMER_SERVICE_URL": "http://5d7249db5acf5e0014730c74.mockapi.io/api/v1/customers"
+            }
+        }
+    ]
+}
