@@ -1,0 +1,152 @@
+[
+    {
+        "productId": 1,
+        "title": "GELSEMIUM SEMP",
+        "qtyInStock": 1125,
+        "unitPrice": 40
+    },
+    {
+        "productId": 2,
+        "title": "Lamotrigine",
+        "qtyInStock": 3812,
+        "unitPrice": 49
+    },
+    {
+        "productId": 3,
+        "title": "REMAN HOMME SUN PROTECTION",
+        "qtyInStock": 1018,
+        "unitPrice": 43
+    },
+    {
+        "productId": 4,
+        "title": "XOXO Kit",
+        "qtyInStock": 2561,
+        "unitPrice": 17
+    },
+    {
+        "productId": 5,
+        "title": "NANOMIX NANO CLEAN",
+        "qtyInStock": 1983,
+        "unitPrice": 25
+    },
+    {
+        "productId": 6,
+        "title": "Fluvoxamine Maleate",
+        "qtyInStock": 4383,
+        "unitPrice": 46
+    },
+    {
+        "productId": 7,
+        "title": "Carisoprodol and Aspirin",
+        "qtyInStock": 3619,
+        "unitPrice": 18
+    },
+    {
+        "productId": 8,
+        "title": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "qtyInStock": 2513,
+        "unitPrice": 19
+    },
+    {
+        "productId": 9,
+        "title": "Indium in 111 Oxyquinoline",
+        "qtyInStock": 3430,
+        "unitPrice": 45
+    },
+    {
+        "productId": 10,
+        "title": "Hydrochlorothiazide",
+        "qtyInStock": 2187,
+        "unitPrice": 17
+    },
+    {
+        "productId": 11,
+        "title": "SHISEIDO WHITE LUCENT",
+        "qtyInStock": 4359,
+        "unitPrice": 24
+    },
+    {
+        "productId": 12,
+        "title": "NANOMIX BODY CARE",
+        "qtyInStock": 3568,
+        "unitPrice": 30
+    },
+    {
+        "productId": 13,
+        "title": "Prednisone",
+        "qtyInStock": 2830,
+        "unitPrice": 42
+    },
+    {
+        "productId": 14,
+        "title": "Phenazopyridine Hydrochloride",
+        "qtyInStock": 1626,
+        "unitPrice": 34
+    },
+    {
+        "productId": 15,
+        "title": "mally Face Defender Foundation BB",
+        "qtyInStock": 1356,
+        "unitPrice": 23
+    },
+    {
+        "productId": 16,
+        "title": "Loperamide HCl Anti-Diarrheal",
+        "qtyInStock": 1620,
+        "unitPrice": 40
+    },
+    {
+        "productId": 17,
+        "title": "Thiamine Hydrochloride",
+        "qtyInStock": 2149,
+        "unitPrice": 26
+    },
+    {
+        "productId": 18,
+        "title": "Glipizide",
+        "qtyInStock": 2454,
+        "unitPrice": 50
+    },
+    {
+        "productId": 19,
+        "title": "B Mold Mixture",
+        "qtyInStock": 1493,
+        "unitPrice": 28
+    },
+    {
+        "productId": 20,
+        "title": "Ondansetron",
+        "qtyInStock": 4823,
+        "unitPrice": 30
+    },
+    {
+        "productId": 21,
+        "title": "DR SMITHS DIAPER",
+        "qtyInStock": 2810,
+        "unitPrice": 27
+    },
+    {
+        "productId": 22,
+        "title": "MUCOR PLUMBEUS",
+        "qtyInStock": 3703,
+        "unitPrice": 41
+    },
+    {
+        "productId": 23,
+        "title": "acid controller",
+        "qtyInStock": 4795,
+        "unitPrice": 46
+    },
+    {
+        "productId": 24,
+        "title": "Fresh Mint Dandruff",
+        "qtyInStock": 4416,
+        "unitPrice": 31
+    },
+    {
+        "productId": 25,
+        "title": "Equate Cool and Heat",
+        "qtyInStock": 1757,
+        "unitPrice": 34
+    }
+]
