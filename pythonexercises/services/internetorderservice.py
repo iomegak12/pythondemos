@@ -16,14 +16,18 @@ class InternetOrderService(threading.Thread, BaseService):
         threading.Thread.__init__(self)
 
     def run(self):
-        try:
-            fileHandle = open(self.__fileName, 'r')
+        # try:
+        #     fileHandle = open(self.__fileName, 'r')
+        #     self.orders = json.load(
+        #         fileHandle, object_hook=utilities.InternetOrderDecoder.transform)
+        # except Exception as error:
+        #     print('Error Occurred, Details : {}'.format(str(error)))
+        # finally:
+        #     fileHandle.close()
+
+        with open(self.__fileName, 'r') as fileHandle:
             self.orders = json.load(
                 fileHandle, object_hook=utilities.InternetOrderDecoder.transform)
-        except Exception as error:
-            print('Error Occurred, Details : {}'.format(str(error)))
-        finally:
-            fileHandle.close()
 
         if not (self.callback is None):
             self.callback(self.orders)
